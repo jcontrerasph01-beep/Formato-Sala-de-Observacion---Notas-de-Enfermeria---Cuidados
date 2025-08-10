@@ -54,6 +54,10 @@ body {
     border-right: 1px solid black !important;
 }
 
+.border-left-none{
+    border-left: none !important;
+}
+
 .border-bottom-none {
     border-bottom: none !important;
 }
