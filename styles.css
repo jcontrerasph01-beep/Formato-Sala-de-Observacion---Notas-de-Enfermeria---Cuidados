@@ -1,0 +1,55 @@
+.cntrl_value_marca_x::before {
+    left: 8px;
+    top: 8px;
+    content: "X";
+    position: absolute;
+    vertical-align: middle;
+    line-height: 0;
+    font-size: 24px;
+}
+
+.cntrl_value_marca_x2::before {
+    transform: translate(-50%, -50%) rotate(45deg);
+    left: 50%;
+    top: 50%;
+    content: "+";
+    position: absolute;
+    vertical-align: middle;
+    line-height: 0;
+    font-size: 40px;
+}
+
+.cntrl-label {
+    font-size: 13px;
+}
+
+.cntrl-value {
+    font-size: 13px;
+}
+
+td, th {
+    font-size: 11px;
+    font-family: calibri;
+}
+
+.cntrl_bg_key{
+    background-color: rgb(227 227 227);
+}
+
+.cntrl_bg_sub_title{
+    background-color: rgb(192 192 192);
+}
+
+.control_label_title{
+    
+    font-weight: bold;
+}
+
+.cntrl_label_title1{
+    font-size: 16px;
+}
+
+.cntrl_label_title2{
+    font-size: 12px;
+    
+}
