@@ -277,6 +277,14 @@ body {
     font-family: calibri;
 }
 
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
+
 .font-weight-bold {
     font-weight: bold;
 }
